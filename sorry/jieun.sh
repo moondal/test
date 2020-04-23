@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "sorry, jieun T_T"
+echo "Hello, jieun T_T"
